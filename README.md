@@ -8,7 +8,7 @@ Create an Oracle WebLogic 14c Domain configuration in a Docker image.
 
 ## Running
 
-    docker run -d --init --restart unless-stopped --name WLS14c some/tag/wls14c
+    docker run -d --init --restart unless-stopped --name WLS14c some/tag/wls14cdomain
 
 ## Connecting
 
