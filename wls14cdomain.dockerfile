@@ -2,7 +2,7 @@
 # Configure wls14c image first
 
 ARG REPO
-FROM ${REPO}mw/base/wls14c
+FROM ${REPO}some/tag/wls14c
 
 # Build Arguments
 # (Put build arguments first and set defaults)
